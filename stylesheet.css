@@ -1,0 +1,30 @@
+.color {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  display: inline;
+  float: left;
+  margin: 0 10px 0 10px;
+}
+.burlywood{
+  background-color: burlywood;
+}
+.burgundy{
+  background-color: red;
+}
+.yellow{
+  background-color: yellow;
+}
+.purple{
+  background-color: #6441A5;
+}
+.green{
+  background-color: green;
+}
+/*div {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  float: left;
+  margin: 0 10px 0 10px;
+}*/
