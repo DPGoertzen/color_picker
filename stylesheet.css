@@ -4,12 +4,12 @@
   border-radius: 50%;
   display: inline;
   float: left;
-  margin: 0 10px 0 10px;
+  margin: 10px 10px 10px 10px;
 }
 .burlywood{
   background-color: burlywood;
 }
-.burgundy{
+.red{
   background-color: red;
 }
 .yellow{
@@ -21,10 +21,21 @@
 .green{
   background-color: green;
 }
-/*div {
+.orange{
+  background-color: orange;
+}
+.brown{
+  background-color: brown;
+}
+.magenta{
+  background-color: magenta;
+}
+.black{
+  background-color: black;
   width: 200px;
   height: 200px;
-  background-color: blue;
+  border-radius: 50%;
+  display: inline;
   float: left;
-  margin: 0 10px 0 10px;
-}*/
+  margin: 10px 10px 10px 10px;
+}
